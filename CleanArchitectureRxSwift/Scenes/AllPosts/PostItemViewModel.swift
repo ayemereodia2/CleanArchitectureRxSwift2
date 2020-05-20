@@ -3,12 +3,11 @@
 //  CleanArchitectureRxSwift
 //
 //  Created by Stefano Mondino on 09/08/17.
-//  Copyright © 2017 sergdort. All rights reserved.
+//  Copyright © 2017 ayemere. All rights reserved.
 //
 
 import Foundation
 import Domain
-
 final class PostItemViewModel   {
     let title:String
     let subtitle : String

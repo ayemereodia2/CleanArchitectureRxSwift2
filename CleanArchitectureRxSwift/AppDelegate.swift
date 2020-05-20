@@ -7,7 +7,7 @@
 //
 
 import UIKit
-
+var sergdort: Int = 0
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 

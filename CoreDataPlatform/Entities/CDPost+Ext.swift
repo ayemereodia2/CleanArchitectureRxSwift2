@@ -2,8 +2,8 @@
 //  CDPost+CoreDataClass.swift
 //  NetworkAndSecurity
 //
-//  Created by sergdort on 07/01/2017.
-//  Copyright © 2017 sergdort. All rights reserved.
+//  Created by ayemere on 07/01/2017.
+//  Copyright © 2017 ayemere. All rights reserved.
 //  This file was automatically generated and should not be edited.
 //
 

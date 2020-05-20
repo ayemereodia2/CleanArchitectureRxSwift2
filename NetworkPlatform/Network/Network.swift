@@ -3,7 +3,7 @@
 //  CleanArchitectureRxSwift
 //
 //  Created by Andrey Yastrebov on 16.03.17.
-//  Copyright © 2017 sergdort. All rights reserved.
+//  Copyright © 2017 ayemere. All rights reserved.
 //
 
 import Foundation

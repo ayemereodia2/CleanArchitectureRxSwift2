@@ -1,6 +1,6 @@
 //
-// Created by sergdort on 03/02/2017.
-// Copyright (c) 2017 sergdort. All rights reserved.
+// Created by ayemere on 03/02/2017.
+// Copyright (c) 2017 ayemere. All rights reserved.
 //
 
 

@@ -2,8 +2,8 @@
 //  DomainTests.swift
 //  DomainTests
 //
-//  Created by sergdort on 18/02/2017.
-//  Copyright © 2017 sergdort. All rights reserved.
+//  Created by ayemere on 18/02/2017.
+//  Copyright © 2017 ayemere. All rights reserved.
 //
 
 import XCTest
