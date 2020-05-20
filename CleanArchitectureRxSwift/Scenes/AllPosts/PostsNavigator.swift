@@ -5,6 +5,7 @@ protocol PostsNavigator {
     func toCreatePost()
     func toPost(_ post: Post)
     func toPosts()
+    
 }
 
 class DefaultPostsNavigator: PostsNavigator {
